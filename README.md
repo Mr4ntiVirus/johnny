@@ -1,5 +1,7 @@
 # Johnny Neuromorphic
 
+[![CI](https://github.com/Mr4ntiVirus/johnny/actions/workflows/ci.yml/badge.svg)](https://github.com/Mr4ntiVirus/johnny/actions/workflows/ci.yml)
+
 **A local memory librarian for Claude Code.** Johnny Neuromorphic by Positronik.
 
 Johnny remembers what you worked on across sessions, notices when a new prompt touches something you have done before, and quietly puts the right context in front of Claude. Everything runs on your Mac: one SQLite file, local embeddings through Ollama, no accounts, no servers, no telemetry.
