@@ -1,0 +1,11 @@
+Johnny Neuromorphic
+Copyright 2026 Brad Litwin
+
+This product includes software developed by third parties:
+
+  claude-code-cmv (src/vendor/cmv/)
+  Copyright 2026 Cosmo Santoni
+  Licensed under the Apache License, Version 2.0
+  https://github.com/CosmoNaught/claude-code-cmv
+  The files under src/vendor/cmv/ are vendored from that project (v2.1.1) and
+  keep their original license, included at src/vendor/cmv/LICENSE.
